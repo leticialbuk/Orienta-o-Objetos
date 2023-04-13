@@ -11,11 +11,9 @@ namespace MyApp
             pagamentoBoleto.Vencimento = DateTime.Now;
             pagamentoBoleto.NumeroBoleto = "1234";
 
-
             var pagamento = new Pagamento();
-
+            pagamento.ToString();
         }
-
     }
 
     class Pagamento
@@ -24,16 +22,34 @@ namespace MyApp
         public DateTime Vencimento;
 
         //Métodos:
-        public void Pagar() { }
+        public virtual void Pagar() { }
+
+        public override string ToString()
+        {
+            return Vencimento.ToString("dd/MM/yy");
+        }
     }
 
     class PagamentoBoleto : Pagamento
     {
-        public string NumeroBoleto;
+        public string? NumeroBoleto;
+
+        public override void Pagar()
+        {
+            base.Pagar();
+            // no poliformismo vc consegue colocar a Regra do boleto
+        }
     }
 
     class PagamentoCartaoCredito : Pagamento
     {
-        public string Numero;
+        public string? Numero;
+
+        public override void Pagar()
+        {
+            base.Pagar();
+            // no poliformismo vc consegue colocar a Regra do cartão de crédito
+        }
+
     }
 }
