@@ -6,14 +6,34 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
+            var pagamentoBoleto = new PagamentoBoleto();
+            pagamentoBoleto.Pagar();
+            pagamentoBoleto.Vencimento = DateTime.Now;
+            pagamentoBoleto.NumeroBoleto = "1234";
+
+
+            var pagamento = new Pagamento();
 
         }
+
     }
 
     class Pagamento
     {
-        DateTime Vencimento;
+        // Propriedades:
+        public DateTime Vencimento;
 
-        void Pagar() { }
+        //Métodos:
+        public void Pagar() { }
+    }
+
+    class PagamentoBoleto : Pagamento
+    {
+        public string NumeroBoleto;
+    }
+
+    class PagamentoCartaoCredito : Pagamento
+    {
+        public string Numero;
     }
 }
