@@ -1,0 +1,15 @@
+C:\Dev\OrientacaoObjetos\Metodos\bin\Debug\net7.0\Metodos.exe
+C:\Dev\OrientacaoObjetos\Metodos\bin\Debug\net7.0\Metodos.deps.json
+C:\Dev\OrientacaoObjetos\Metodos\bin\Debug\net7.0\Metodos.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\Metodos\bin\Debug\net7.0\Metodos.dll
+C:\Dev\OrientacaoObjetos\Metodos\bin\Debug\net7.0\Metodos.pdb
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.dll
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\refint\Metodos.dll
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.pdb
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\Metodos.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\Metodos\obj\Debug\net7.0\ref\Metodos.dll
