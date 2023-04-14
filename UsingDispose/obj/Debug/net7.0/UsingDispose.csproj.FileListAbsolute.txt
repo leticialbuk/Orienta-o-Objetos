@@ -1,0 +1,15 @@
+C:\Dev\OrientacaoObjetos\UsingDispose\bin\Debug\net7.0\UsingDispose.exe
+C:\Dev\OrientacaoObjetos\UsingDispose\bin\Debug\net7.0\UsingDispose.deps.json
+C:\Dev\OrientacaoObjetos\UsingDispose\bin\Debug\net7.0\UsingDispose.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\UsingDispose\bin\Debug\net7.0\UsingDispose.dll
+C:\Dev\OrientacaoObjetos\UsingDispose\bin\Debug\net7.0\UsingDispose.pdb
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.dll
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\refint\UsingDispose.dll
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.pdb
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\UsingDispose.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\UsingDispose\obj\Debug\net7.0\ref\UsingDispose.dll

@@ -1,0 +1,5 @@
+C:\Dev\OrientacaoObjetos\ClassesSeladas\obj\Debug\net7.0\ClassesSeladas.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\ClassesSeladas\obj\Debug\net7.0\ClassesSeladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\ClassesSeladas\obj\Debug\net7.0\ClassesSeladas.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\ClassesSeladas\obj\Debug\net7.0\ClassesSeladas.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\ClassesSeladas\obj\Debug\net7.0\ClassesSeladas.csproj.CoreCompileInputs.cache
