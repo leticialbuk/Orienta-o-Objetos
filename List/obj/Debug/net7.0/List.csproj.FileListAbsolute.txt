@@ -1,0 +1,15 @@
+C:\Dev\OrientacaoObjetos\List\bin\Debug\net7.0\List.exe
+C:\Dev\OrientacaoObjetos\List\bin\Debug\net7.0\List.deps.json
+C:\Dev\OrientacaoObjetos\List\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\List\bin\Debug\net7.0\List.dll
+C:\Dev\OrientacaoObjetos\List\bin\Debug\net7.0\List.pdb
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.dll
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\refint\List.dll
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.pdb
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\List\obj\Debug\net7.0\ref\List.dll
