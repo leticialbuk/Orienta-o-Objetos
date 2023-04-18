@@ -1,0 +1,15 @@
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\ComparacaoObj\bin\Debug\net7.0\ComparacaoObj.exe
+C:\Dev\OrientacaoObjetos\ComparacaoObj\bin\Debug\net7.0\ComparacaoObj.deps.json
+C:\Dev\OrientacaoObjetos\ComparacaoObj\bin\Debug\net7.0\ComparacaoObj.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\ComparacaoObj\bin\Debug\net7.0\ComparacaoObj.dll
+C:\Dev\OrientacaoObjetos\ComparacaoObj\bin\Debug\net7.0\ComparacaoObj.pdb
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.dll
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\refint\ComparacaoObj.dll
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.pdb
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ComparacaoObj.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\ComparacaoObj\obj\Debug\net7.0\ref\ComparacaoObj.dll
