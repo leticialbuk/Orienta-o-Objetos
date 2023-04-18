@@ -17,8 +17,5 @@ namespace MyApp // Note: actual namespace depends on the project name.
     }
 
     //exemplo: neste caso eu não consigo chamar o Pagamento, pois não posso derivar de uma classe selada (sealed)
-    public class PagamentoBoleto : Pagamento
-    {
-
-    }
+    // public class PagamentoBoleto : Pagamento {}
 }

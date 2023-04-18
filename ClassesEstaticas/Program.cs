@@ -18,7 +18,7 @@ namespace MyApp
     }
 
     //aqui vemos um ex de static, por ser uma configuração a static será usada por toda aplicação, podendo estar na memória 
-    partial static class Settings
+    partial class Settings
     {
         public static string API_URL { get; set; }
     }

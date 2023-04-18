@@ -15,13 +15,13 @@ namespace Complex
     {
         // Propriedades:
         public DateTime Vencimento;
-        Address BillingAddress;
+        //Address BillingAddress;
         //Métodos:
         public void Pagar() { }
     }
 
     public class Address
     {
-        string ZipCode;
+        //string ZipCode;
     }
 }
