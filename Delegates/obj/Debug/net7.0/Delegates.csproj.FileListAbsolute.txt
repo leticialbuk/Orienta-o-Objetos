@@ -1,0 +1,15 @@
+C:\Dev\OrientacaoObjetos\Delegates\bin\Debug\net7.0\Delegates.exe
+C:\Dev\OrientacaoObjetos\Delegates\bin\Debug\net7.0\Delegates.deps.json
+C:\Dev\OrientacaoObjetos\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\Delegates\bin\Debug\net7.0\Delegates.dll
+C:\Dev\OrientacaoObjetos\Delegates\bin\Debug\net7.0\Delegates.pdb
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.dll
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.pdb
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\Delegates\obj\Debug\net7.0\ref\Delegates.dll
